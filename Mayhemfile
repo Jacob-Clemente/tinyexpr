@@ -1,0 +1,5 @@
+project: jacob-clemente/tinyexpr
+target: example2
+
+cmds:
+  - cmd: /example2 @@
